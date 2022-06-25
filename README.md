@@ -7,7 +7,7 @@
 89, 23124(2006).](https://www.researchgate.net/publication/234884180_Band-gap_opening_in_metallic_carbon_nanotubes_adsorbed_on_HSi001)
  
 * [“Ultraviolet-visible absorption spectra of N-doped TiO2 film deposited on sapphire”, J. Appl.
-Phys. Accepted (2006).](https://aip.scitation.org/doi/abs/10.1063/1.2400099?journalCode=jap)
+Phys. 100, 113534(2006).](https://aip.scitation.org/doi/abs/10.1063/1.2400099?journalCode=jap)
  
 * ["Conversion between two binding states of benzene on Si(001)", Phys. Rev. B, 72,
 235317(2005).](https://www.researchgate.net/publication/235445486_Conversion_between_two_binding_states_of_benzene_on_Si001)
@@ -21,3 +21,4 @@ Phys. Accepted (2006).](https://aip.scitation.org/doi/abs/10.1063/1.2400099?jour
  
 * ["Self-directed growth of benzonitrile line on H-terminated Si(001) surface", J. Chem. Phys.,
 121, 8010(2004).](https://www.researchgate.net/publication/8231975_Self-directed_growth_of_benzonitrile_line_on_H-terminated_Si001_surface)
+
